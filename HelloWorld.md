@@ -1,3 +1,2 @@
-# datasciencecoursera
-$ git add HelloWorld.md
-##This is a markdown file 
+# datasciencecourser
+## This is a markdown file
